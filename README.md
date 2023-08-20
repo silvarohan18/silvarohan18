@@ -1,5 +1,3 @@
-### Hi there 👋
-
 # Welcome to My GitHub Homepage!
 
 ## About Me
