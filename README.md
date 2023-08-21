@@ -6,9 +6,14 @@
 ## Projects
 Here are some of my notable projects:
 
-### Project 1: Awesome Project
-Description: This project does amazing things and solves real-world problems. I used technologies like Python and JavaScript to bring it to life.
-GitHub Repository: [Awesome Project](https://github.com/yourusername/awesome-project)
+### Project 1: H2O Wave App - Technical Assignment
+Description: I've conquered the H2O.ai Technical Challenge by crafting a dynamic Wave App that showcases data insights and predictive modeling. Explore data distributions, experience AI-driven predictions, and dive into an interactive user interface.
+
+Experience innovation firsthand on my GitHub repo!
+
+#H2OAI #WaveApp #DataScience #PredictiveModeling #GitHubThis project does amazing things and solves real-world problems. I used technologies like Python and JavaScript to bring it to life.
+
+GitHub Repository: [Awesome Project](https://github.com/silvarohan18/h2o_technical_assignment)
 
 ### Project 2: Cool App
 Description: Cool App is a mobile application that helps users stay organized and productive. It's built with React Native and features a user-friendly interface.
