@@ -11,6 +11,6 @@ Description: I've conquered the H2O.ai Technical Challenge by crafting a dynamic
 
 Experience innovation firsthand on my GitHub repo!
 
-#H2OAI #WaveApp #DataScience #PredictiveModeling #GitHubThis project does amazing things and solves real-world problems. I used technologies like Python and JavaScript to bring it to life.
+#H2OAI #WaveApp #DataScience #PredictiveModeling #GitHubThis project does amazing things and solves real-world problems. I used technologies like Python to bring it to life.
 
 GitHub Repository: [H2O_TechnicalAssignment_Rohan_Silva](https://github.com/silvarohan18/H2O_TechnicalAssignment_Rohan_Silva)
