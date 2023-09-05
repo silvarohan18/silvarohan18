@@ -17,10 +17,9 @@ Experience innovation firsthand on my GitHub repo!
 
 GitHub Repository: [H2O_TechnicalAssignment_Rohan_Silva](https://github.com/silvarohan18/H2O_TechnicalAssignment_Rohan_Silva)
 
-### Project 1: H2O Wave App - Technical Assignment
+### Project 2: Design a low cost PMU for smart grid - Final Year Project
 Description: In an era where energy sustainability is of paramount importance, our "Low-Cost PMU Design for Real-Time Monitoring in Smart Grids" project stands as a beacon of innovation. We have harnessed cutting-edge technology to create a powerful solution that empowers utilities and consumers alike to monitor and optimize electrical parameters in real-time, fostering an era of efficient and sustainable energy management.
 
-Key Features
 Affordable Precision: Our PMU (Phasor Measurement Unit) design strikes the perfect balance between cost-effectiveness and high-precision measurements, making it accessible to a wide range of applications and users.
 
 Real-Time Monitoring: Seamlessly monitor voltage, current, frequency, and other vital electrical parameters in real-time, enabling swift response to grid fluctuations and ensuring uninterrupted power supply.
@@ -31,9 +30,7 @@ Node.js Back End: The robust Node.js back end ensures scal
 
 Experience innovation firsthand on my GitHub repo!
 
-#H2OAI #WaveApp #DataScience #PredictiveModeling #GitHubThis project does amazing things and solves real-world problems. I used technologies like Python to bring it to life.
-
-GitHub Repository: [H2O_TechnicalAssignment_Rohan_Silva](https://github.com/silvarohan18/H2O_TechnicalAssignment_Rohan_Silva)
+GitHub Repository: [Low_Cost_PMU_Rohan_Silva](https://github.com/silvarohan18/Front_End_FYP)
 
 
 
