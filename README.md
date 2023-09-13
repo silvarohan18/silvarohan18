@@ -17,9 +17,8 @@ Experience innovation firsthand on my GitHub repo!
 
 GitHub Repository: [H2O_TechnicalAssignment_Rohan_Silva](https://github.com/silvarohan18/H2O_TechnicalAssignment_Rohan_Silva)
 
-### Low-Cost PMU for Smart Grid - Final Year Project
 
-## Description
+### Low-Cost PMU for Smart Grid - Final Year Project
 
 In an era where energy sustainability is of paramount importance, our "Low-Cost PMU Design for Real-Time Monitoring in Smart Grids" project stands as a beacon of innovation. We have harnessed cutting-edge technology to create a powerful solution that empowers utilities and consumers alike to monitor and optimize electrical parameters in real-time, fostering an era of efficient and sustainable energy management.
 
