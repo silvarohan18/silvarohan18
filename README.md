@@ -17,20 +17,42 @@ Experience innovation firsthand on my GitHub repo!
 
 GitHub Repository: [H2O_TechnicalAssignment_Rohan_Silva](https://github.com/silvarohan18/H2O_TechnicalAssignment_Rohan_Silva)
 
-### Project 2: Design a low cost PMU for smart grid - Final Year Project
-Description: In an era where energy sustainability is of paramount importance, our "Low-Cost PMU Design for Real-Time Monitoring in Smart Grids" project stands as a beacon of innovation. We have harnessed cutting-edge technology to create a powerful solution that empowers utilities and consumers alike to monitor and optimize electrical parameters in real-time, fostering an era of efficient and sustainable energy management.
+### Low-Cost PMU for Smart Grid - Final Year Project
 
-Affordable Precision: Our PMU (Phasor Measurement Unit) design strikes the perfect balance between cost-effectiveness and high-precision measurements, making it accessible to a wide range of applications and users.
+![Project Logo](link_to_project_logo.png)
 
-Real-Time Monitoring: Seamlessly monitor voltage, current, frequency, and other vital electrical parameters in real-time, enabling swift response to grid fluctuations and ensuring uninterrupted power supply.
+## Description
 
-Angular Front End: Our intuitive Angular-based front-end interface offers an aesthetically pleasing and user-friendly dashboard for convenient data visualization and control.
+In an era where energy sustainability is of paramount importance, our "Low-Cost PMU Design for Real-Time Monitoring in Smart Grids" project stands as a beacon of innovation. We have harnessed cutting-edge technology to create a powerful solution that empowers utilities and consumers alike to monitor and optimize electrical parameters in real-time, fostering an era of efficient and sustainable energy management.
 
-Node.js Back End: The robust Node.js back end ensures scal
+**Key Features:**
 
-Experience innovation firsthand on my GitHub repo!
+- **Affordable Precision**: Our PMU (Phasor Measurement Unit) design strikes the perfect balance between cost-effectiveness and high-precision measurements, making it accessible to a wide range of applications and users.
 
-GitHub Repository: [Low_Cost_PMU_Rohan_Silva](https://github.com/silvarohan18/Front_End_FYP)
+- **Real-Time Monitoring**: Seamlessly monitor voltage, current, frequency, and other vital electrical parameters in real-time, enabling swift response to grid fluctuations and ensuring uninterrupted power supply.
+
+- **Angular Front End**: Our intuitive Angular-based front-end interface offers an aesthetically pleasing and user-friendly dashboard for convenient data visualization and control.
+
+- **Node.js Back End**: The robust Node.js back end ensures scalability, reliability, and efficient data processing.
+
+## Experience Innovation Firsthand
+
+Visit the GitHub repository to explore the project, access documentation, and get started with the Low-Cost PMU design:
+
+[GitHub Repository: Low_Cost_PMU_Rohan_Silva](https://github.com/your-username/Low_Cost_PMU_Rohan_Silva)
+
+## Installation and Usage
+
+Detailed installation and usage instructions can be found in the project's [documentation](link_to_documentation).
+
+## Contributing
+
+Contributions are welcome! If you'd like to contribute to this project, please follow our [contribution guidelines](link_to_contributing_guidelines).
+
+## License
+
+This project is licensed under the [MIT License](link_to_license). See the [LICENSE](link_to_license) file for details.
+
 
 ### Project 3: Information Security Project
 
