@@ -32,6 +32,48 @@ Experience innovation firsthand on my GitHub repo!
 
 GitHub Repository: [Low_Cost_PMU_Rohan_Silva](https://github.com/silvarohan18/Front_End_FYP)
 
+### Project 3: Information Security Project
+
+This project demonstrates secure data transmission between a client and server using encryption and decryption with the AES-GCM algorithm. The server receives encrypted data from clients, decrypts it, and stores the information in a MongoDB database. The client and server establish a secure connection through a handshake protocol to ensure data confidentiality.
+
+## Features
+
+- **Secure Connection**: The client and server establish a secure connection using a handshake mechanism before transmitting data.
+
+- **AES-GCM Encryption**: Data is encrypted using the AES-GCM encryption algorithm to ensure confidentiality and integrity during transmission.
+
+- **Decryption Time Measurement**: The server measures the time it takes to decrypt incoming data and displays it in milliseconds.
+
+- **MongoDB Integration**: Decrypted data is stored in a MongoDB database for further processing or analysis.
+
+## Usage
+
+1. Clone the repository: `git clone https://github.com/your-username/secure-data-transmission.git`
+
+2. Install the required Python packages using `pip install -r requirements.txt`.
+
+3. Run the server script: `python server.py`.
+
+4. Run the client script: `python client.py`.
+
+5. Secure data transmission is now set up, and you can observe encryption and decryption times in the server's console.
+
+## Dependencies
+
+- Python 3.x
+- PyCryptodome
+- PyMongo
+- MongoDB
+
+## Contributing
+
+Contributions are welcome! Please feel free to open issues or pull requests for any enhancements or bug fixes.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+
 
 
 
