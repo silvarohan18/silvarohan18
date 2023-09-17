@@ -71,15 +71,6 @@ This project demonstrates secure data transmission between a client and server u
 - PyMongo
 - MongoDB
 
-## Contributing
-
-Contributions are welcome! Please feel free to open issues or pull requests for any enhancements or bug fixes.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-
 
 
 
