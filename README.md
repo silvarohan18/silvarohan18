@@ -52,24 +52,7 @@ This project demonstrates secure data transmission between a client and server u
 
 - **MongoDB Integration**: Decrypted data is stored in a MongoDB database for further processing or analysis.
 
-## Usage
-
-1. Clone the repository: `git clone https://github.com/your-username/secure-data-transmission.git`
-
-2. Install the required Python packages using `pip install -r requirements.txt`.
-
-3. Run the server script: `python server.py`.
-
-4. Run the client script: `python client.py`.
-
-5. Secure data transmission is now set up, and you can observe encryption and decryption times in the server's console.
-
-## Dependencies
-
-- Python 3.x
-- PyCryptodome
-- PyMongo
-- MongoDB
+## 
 
 
 
