@@ -35,12 +35,6 @@ In an era where energy sustainability is of paramount importance, our "Low-Cost 
 GitHub Repository: [H2O_TechnicalAssignment_Rohan_Silva](https://github.com/silvarohan18/FYP)
 
 
-## Experience Innovation Firsthand
-
-Visit the GitHub repository to explore the project, access documentation, and get started with the Low-Cost PMU design:
-
-[GitHub Repository: Low_Cost_PMU_Rohan_Silva](https://github.com/your-username/Low_Cost_PMU_Rohan_Silva)
-
 ### Project 3: Information Security Project
 
 This project demonstrates secure data transmission between a client and server using encryption and decryption with the AES-GCM algorithm. The server receives encrypted data from clients, decrypts it, and stores the information in a MongoDB database. The client and server establish a secure connection through a handshake protocol to ensure data confidentiality.
@@ -53,9 +47,7 @@ This project demonstrates secure data transmission between a client and server u
 
 - **Decryption Time Measurement**: The server measures the time it takes to decrypt incoming data and displays it in milliseconds.
 
-- **MongoDB Integration**: Decrypted data is stored in a MongoDB database for further processing or analysis.
-
-## 
+- **MongoDB Integration**: Decrypted data is stored in a MongoDB database for further processing or analysis. 
 
 
 
