@@ -32,6 +32,9 @@ In an era where energy sustainability is of paramount importance, our "Low-Cost 
 
 - **Node.js Back End**: The robust Node.js back end ensures scalability, reliability, and efficient data processing.
 
+GitHub Repository: [H2O_TechnicalAssignment_Rohan_Silva](https://github.com/silvarohan18/FYP)
+
+
 ## Experience Innovation Firsthand
 
 Visit the GitHub repository to explore the project, access documentation, and get started with the Low-Cost PMU design:
