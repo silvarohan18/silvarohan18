@@ -16,16 +16,14 @@ In an era where energy sustainability is of paramount importance, our "Low-Cost 
 
 - **Real-Time Monitoring**: Seamlessly monitor voltage, current, frequency, and other vital electrical parameters in real-time, enabling swift response to grid fluctuations and ensuring uninterrupted power supply.
 
-- **Angular Front End**: Our intuitive Angular-based front-end interface offers an aesthetically pleasing and user-friendly dashboard for convenient data visualization and control.
+- **Angular Front End**: Our intuitive front-end interface offers an aesthetically pleasing and user-friendly dashboard for convenient data visualization and control.
 
 - **Node.js Back End**: The robust Node.js back end ensures scalability, reliability, and efficient data processing.
-
-GitHub Repository: [H2O_TechnicalAssignment_Rohan_Silva](https://github.com/silvarohan18/FYP)
 
 
 ### Project 2: Information Security Project
 
-This project demonstrates secure data transmission between a client and server using encryption and decryption with the AES-GCM algorithm. The server receives encrypted data from clients, decrypts it, and stores the information in a MongoDB database. The client and server establish a secure connection through a handshake protocol to ensure data confidentiality.
+This project demonstrates secure data transmission between a client and server using encryption and decryption with the AES-GCM algorithm. The server receives encrypted data from clients, decrypts it, and stores the information in a MongoDB database. To ensure data confidentiality, the client and server establish a secure connection through a handshake protocol.
 
 ## Features
 
