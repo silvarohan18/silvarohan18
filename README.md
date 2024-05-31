@@ -1,4 +1,7 @@
 ## Welcome to My GitHub Homepage!
 
 ## About Me
-I'm on a quest to fuse the power of DevOps, AI, and data science to shape the future of technology. With a keen eye for automation and a passion for data-driven insights, I'm crafting solutions that bridge the gap between innovation and seamless operations. Let's connect and explore the endless possibilities at the crossroads of these exciting fields!
+
+I am highly motivated engineer with a freshly minted Bachelor of Engineering from the University of Ruhuna, Sri Lanka. My path has led me to One of the best IT companies in the world H2O.ai as a DevOps Engineer, where I apply my knowledge to optimize development operations through tools like Kubernetes, Helm & Terraform.
+
+Specializing in Kubernetes, Terraform and Jenkins, I am driven by a passion for cloud technologies and programming. I aim to use these skills to foster transformative change. It’s an exciting time to be in DevOps, and I’m committed to contributing to projects that redefine efficiency and elevate the tech landscape.
