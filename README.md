@@ -95,14 +95,8 @@ Small <b>Packer-built CI images</b> for CPU and GPU (CUDA) workloads on x86_64 a
   <img src="https://img.shields.io/badge/Packer%20%2F%20HCL2-02A8EF?style=for-the-badge&logo=packer&logoColor=white" />
   <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" />
   <img src="https://img.shields.io/badge/EKS%20%2B%20ARC%20%2B%20Karpenter-FF9900?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/CUDA%20%2F%20ARM64-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
   <img src="https://img.shields.io/badge/Groovy-4298B8?style=for-the-badge&logo=apachegroovy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=trivy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prisma%20Cloud-00C0E8?style=for-the-badge&logo=paloaltonetworks&logoColor=white" />
   <img src="https://img.shields.io/badge/Cloud%20Custodian-232F3E?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SBOM%20%2F%20CVE%20Automation-6E40C9?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/ELK-005571?style=for-the-badge&logo=elastic&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub%20OIDC%20%E2%86%92%20IAM-000000?style=for-the-badge&logo=openid&logoColor=white" />
 </p>
 
 <br/>
