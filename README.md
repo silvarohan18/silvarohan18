@@ -118,8 +118,12 @@ Investigated an <b>EKS</b> architecture with GitHub Actions Runner Controller (A
 
 <br/>
 
-<div align="center">
-<sub>"If it isn't automated, it isn't done. If it isn't measured, it isn't optimized. If it isn't reproducible, it isn't shipped."</sub>
-</div>
+<table align="center">
+<tr>
+<td align="center" width="33%"><h3>⚙️</h3><b>Not automated?</b><br/>Not done.</td>
+<td align="center" width="33%"><h3>📏</h3><b>Not measured?</b><br/>Not optimized.</td>
+<td align="center" width="33%"><h3>📦</h3><b>Not reproducible?</b><br/>Not shipped.</td>
+</tr>
+</table>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=90&section=footer" width="100%" />
