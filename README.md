@@ -17,7 +17,7 @@
 
 ## 🧭 About
 
-**Primary DevOps and Infrastructure Engineer for the Predictive AI Engineering team at H2O.ai** (Software Engineer II – DevOps), with 3+ years in cloud infrastructure, CI/CD and release automation across **AWS, GCP, Azure and OCI**. I own the pipelines and infrastructure behind **H2O-3 and H2O-3 Secure**, the open-source distributed ML platform, and **Driverless AI**, H2O's enterprise AutoML product: if the nightly tests run, a release ships, a security scan fires or a runner spins up with the right GPU and permissions, that is my work.
+**Primary DevOps and Infrastructure Engineer for the Predictive AI Engineering team at H2O.ai** (Software Engineer II – DevOps), with 3+ years in cloud infrastructure, CI/CD and release automation across **AWS, GCP, Azure and OCI**. I own the pipelines and infrastructure behind **H2O-3 and H2O-3 Secure**, the distributed ML platform, and **Driverless AI**, H2O's enterprise AutoML product: if the nightly tests run, a release ships, a security scan fires or a runner spins up with the right GPU and permissions, that is my work.
 
 <br/>
 
