@@ -19,9 +19,13 @@
 
 Hi, I'm Rohan 👋
 
-I'm the **primary DevOps and Infrastructure Engineer for the Predictive AI Engineering team at H2O.ai** (Software Engineer II – DevOps). For the past 3+ years I've been building and running the cloud infrastructure, CI/CD and release automation behind two products: **H2O-3 and H2O-3 Secure**, the distributed machine learning platform, and **Driverless AI**, H2O's enterprise AutoML product.
+I'm a **Software Engineer II – DevOps at H2O.ai**, working across cloud infrastructure, CI/CD, and release automation for the Predictive AI Engineering team.
 
-My work spans **AWS, GCP, Azure and OCI**. In practice it means the nightly tests run, releases reach customers and cloud marketplaces on time, security scans catch problems early, and every CI runner starts with the right GPU and the right permissions. When something in that chain breaks, I fix it, then automate it so it stays fixed.
+Over the past 3+ years, I've been building, maintaining, and improving the infrastructure and automation behind **H2O-3, H2O-3 Secure, and Driverless AI** — from nightly test pipelines and secure releases to cloud marketplace publishing and scalable CI infrastructure.
+
+My work spans **AWS, GCP, Azure, and OCI**, with a focus on making engineering platforms more reliable, secure, scalable, and cost-efficient. I work across the full lifecycle, from designing and automating infrastructure to troubleshooting complex failures, optimizing cloud costs, and improving release processes.
+
+I enjoy solving infrastructure problems at their root, turning repetitive manual tasks into reliable automation, and building systems that help engineering teams deliver software with greater confidence and efficiency.
 
 <br/>
 
