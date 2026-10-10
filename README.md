@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=190&section=header&text=Rohan%20Silva&fontSize=62&fontColor=FFFFFF&fontAlignY=38&desc=DevOps%20%26%20Infrastructure%20Engineer%20%E2%80%A2%20Predictive%20AI%20Engineering%20%40%20H2O.ai&descAlignY=60&descSize=17&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=190&section=header&text=Rohan%20Silva&fontSize=62&fontColor=FFFFFF&fontAlignY=38&desc=DevOps%20and%20Infrastructure%20Engineer%20%E2%80%A2%20Predictive%20AI%20Engineering%20%40%20H2O.ai&descAlignY=60&descSize=17&animation=fadeIn" width="100%" />
 
 <div align="center">
 
