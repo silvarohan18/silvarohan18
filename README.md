@@ -106,15 +106,6 @@ Investigated an <b>EKS</b> architecture with GitHub Actions Runner Controller (A
   <img src="https://skillicons.dev/icons?i=aws,gcp,azure,terraform,docker,kubernetes,linux,githubactions,jenkins,gradle,git,prometheus,grafana,py,bash&perline=8&theme=dark" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Packer%20%2F%20HCL2-02A8EF?style=for-the-badge&logo=packer&logoColor=white" />
-  <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" />
-  <img src="https://img.shields.io/badge/EKS%20%2B%20ARC%20%2B%20Karpenter-FF9900?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Groovy-4298B8?style=for-the-badge&logo=apachegroovy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloud%20Custodian-232F3E?style=for-the-badge" />
-</p>
-
 <br/>
 
 ## 📈 Recent Activity
