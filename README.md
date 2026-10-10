@@ -21,7 +21,7 @@
 
 <br/>
 
-## 🏆 Top Contributions, Last 12 Months
+## 🚀 What I've Delivered
 
 <table>
 <tr>
