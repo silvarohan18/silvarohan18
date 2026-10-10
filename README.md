@@ -10,7 +10,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%40luukz__18-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luukz_18/)
 [![H2O.ai](https://img.shields.io/badge/H2O.ai-DevOps%20%26%20Infrastructure%20%E2%80%A2%20Predictive%20AI-FFE600?style=for-the-badge&logoColor=black)](https://h2o.ai)
 [![H2O-3](https://img.shields.io/badge/Open%20Source-h2oai%2Fh2o--3-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/h2oai/h2o-3)
-[![Location](https://img.shields.io/badge/Based%20in-Sri%20Lanka-00A86B?style=for-the-badge&logo=googlemaps&logoColor=white)](#-connect)
+![Location](https://img.shields.io/badge/Based%20in-Sri%20Lanka-00A86B?style=for-the-badge&logo=googlemaps&logoColor=white)
 
 </div>
 
@@ -73,10 +73,6 @@
   <img src="https://img.shields.io/badge/ELK-005571?style=flat-square&logo=elastic&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub%20OIDC%20%E2%86%92%20IAM-000000?style=flat-square&logo=openid&logoColor=white" />
 </p>
-
-## 🤝 Connect
-
-**LinkedIn:** [linkedin.com/in/rohan-silva-874abb197](https://www.linkedin.com/in/rohan-silva-874abb197) · **GitHub:** [github.com/silvarohan18](https://github.com/silvarohan18) · **Instagram:** [instagram.com/luukz_18](https://www.instagram.com/luukz_18/) · **Location:** Sri Lanka
 
 <div align="center">
 <sub>"If it isn't automated, it isn't done. If it isn't measured, it isn't optimized. If it isn't reproducible, it isn't shipped."</sub>
