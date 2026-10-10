@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=880&lines=Owner+of+H2O-3+Secure+CI%2FCD%2C+release+and+cloud+infrastructure+at+H2O.ai;Jenkins+%E2%86%92+GitHub+Actions+on+a+Spot-first+AWS+runner+fleet;Driverless+AI+on+AWS%2C+GCP%2C+Azure+and+OCI+marketplaces;Security+and+CVE+scanning+pipelines+for+H2O-3+and+Driverless+AI" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=880&lines=Owning+CI%2FCD%2C+releases+and+cloud+infrastructure+for+H2O-3+Secure;Migrating+Jenkins+%E2%86%92+GitHub+Actions+onto+a+Spot-first+AWS+runner+fleet;Shipping+Driverless+AI+to+the+AWS%2C+GCP%2C+Azure+and+OCI+marketplaces;Automating+CVE+and+security+scanning+for+H2O-3+and+Driverless+AI;Cutting+cloud+spend+with+Spot%2C+Cloud+Custodian+and+right-sized+runners" alt="Typing SVG" />
 
 <br/>
 
