@@ -111,7 +111,7 @@ Small <b>Packer-built CI images</b> for CPU and GPU (CUDA) workloads on x86_64 a
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/silvarohan18/silvarohan18/output/recent-activity.svg" alt="Contributions in the last 7 days, 30 days and 12 months" />
+<img src="https://raw.githubusercontent.com/silvarohan18/silvarohan18/output/recent-activity.svg" alt="Contributions in the last 7 and 30 days" width="100%" />
 
 </div>
 

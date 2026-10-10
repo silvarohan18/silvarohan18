@@ -20,7 +20,7 @@ OUT = sys.argv[2] if len(sys.argv) > 2 else "dist/activity.svg"
 # Palette matched to the README banners and the streak card next to this panel.
 BG, ACCENT, DIM = "#0F2027", "#36BCF7", "#1E2A33"
 TEXT, MUTED, LINE = "#FFFFFF", "#9CA3AF", "#1F3440"
-WIDTH, HEIGHT = 560, 215
+WIDTH, HEIGHT = 900, 230
 
 
 def fetch(user: str) -> str:
@@ -81,16 +81,16 @@ def render(counts, year_total: int) -> str:
     for i, (num, label, sub) in enumerate(tiles):
         cx = col_w * i + col_w / 2
         colour = ACCENT if i == 1 else TEXT
-        p.append(f'<text x="{cx:.0f}" y="58" font-size="30" font-weight="700" fill="{colour}">{html.escape(num)}</text>')
-        p.append(f'<text x="{cx:.0f}" y="84" font-size="14" font-weight="600" fill="{TEXT}">{html.escape(label)}</text>')
-        p.append(f'<text x="{cx:.0f}" y="104" font-size="11" fill="{MUTED}">{html.escape(sub)}</text>')
+        p.append(f'<text x="{cx:.0f}" y="60" font-size="36" font-weight="700" fill="{colour}">{html.escape(num)}</text>')
+        p.append(f'<text x="{cx:.0f}" y="88" font-size="16" font-weight="600" fill="{TEXT}">{html.escape(label)}</text>')
+        p.append(f'<text x="{cx:.0f}" y="108" font-size="12" fill="{MUTED}">{html.escape(sub)}</text>')
         if i:
             x = col_w * i
             p.append(f'<line x1="{x:.0f}" y1="34" x2="{x:.0f}" y2="112" stroke="{LINE}" stroke-width="1"/>')
 
     # 30-day bar strip: one bar per day, scaled to the busiest day of the month.
     chart_top, chart_h = 136, 48
-    bar_w, gap = 14, 3
+    bar_w, gap = 24, 4
     strip_w = 30 * (bar_w + gap) - gap
     x0 = (WIDTH - strip_w) / 2
     peak = max(bars) or 1
