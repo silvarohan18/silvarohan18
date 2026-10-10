@@ -1,0 +1,36 @@
+name: Activity panel
+
+# Renders the recent-activity panel shown in the profile README from the public
+# profile data (which includes private contributions as counts) and publishes
+# the SVG to the "output" branch, so no generated file lives on main.
+on:
+  schedule:
+    - cron: "0 2 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/contributions.yml"
+      - "scripts/render_contributions.py"
+
+permissions:
+  contents: write
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Render the contribution calendar
+        run: python3 scripts/render_contributions.py "${{ github.repository_owner }}" dist/contributions.svg
+
+      - name: Publish the SVG to the output branch
+        uses: crazy-max/ghaction-github-pages@v5
+        with:
+          target_branch: output
+          build_dir: dist
+          keep_history: false
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
