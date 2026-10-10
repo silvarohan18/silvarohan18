@@ -86,55 +86,24 @@ Small <b>Packer-built CI images</b> for CPU and GPU (CUDA) workloads on x86_64 a
 
 ## 🛠️ Stack
 
-<table align="center">
-<tr>
-<td align="right" valign="middle"><b>☁️&nbsp; Cloud</b></td>
-<td>
-<img src="https://skillicons.dev/icons?i=aws,gcp,azure,terraform&theme=dark" height="40" /><br/>
-<img src="https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge" height="24" />
-<img src="https://img.shields.io/badge/Packer%20%2F%20HCL2-02A8EF?style=for-the-badge&logo=packer&logoColor=white" height="24" />
-</td>
-</tr>
-<tr>
-<td align="right" valign="middle"><b>📦&nbsp; Containers and Compute</b></td>
-<td>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,linux&theme=dark" height="40" /><br/>
-<img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" height="24" />
-<img src="https://img.shields.io/badge/EKS%20%2B%20ARC%20%2B%20Karpenter-FF9900?style=for-the-badge&logo=kubernetes&logoColor=white" height="24" />
-<img src="https://img.shields.io/badge/CUDA%20%2F%20ARM64-76B900?style=for-the-badge&logo=nvidia&logoColor=white" height="24" />
-</td>
-</tr>
-<tr>
-<td align="right" valign="middle"><b>⚙️&nbsp; CI/CD and Build</b></td>
-<td>
-<img src="https://skillicons.dev/icons?i=githubactions,jenkins,gradle,git&theme=dark" height="40" /><br/>
-<img src="https://img.shields.io/badge/Groovy-4298B8?style=for-the-badge&logo=apachegroovy&logoColor=white" height="24" />
-<img src="https://img.shields.io/badge/GitHub%20OIDC%20%E2%86%92%20IAM-000000?style=for-the-badge&logo=openid&logoColor=white" height="24" />
-</td>
-</tr>
-<tr>
-<td align="right" valign="middle"><b>🔐&nbsp; Security</b></td>
-<td>
-<img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=trivy&logoColor=white" height="24" />
-<img src="https://img.shields.io/badge/Prisma%20Cloud-00C0E8?style=for-the-badge&logo=paloaltonetworks&logoColor=white" height="24" />
-<img src="https://img.shields.io/badge/Cloud%20Custodian-232F3E?style=for-the-badge" height="24" />
-<img src="https://img.shields.io/badge/SBOM%20%2F%20CVE%20Automation-6E40C9?style=for-the-badge&logo=github&logoColor=white" height="24" />
-</td>
-</tr>
-<tr>
-<td align="right" valign="middle"><b>📈&nbsp; Observability</b></td>
-<td>
-<img src="https://skillicons.dev/icons?i=prometheus,grafana&theme=dark" height="40" /><br/>
-<img src="https://img.shields.io/badge/ELK-005571?style=for-the-badge&logo=elastic&logoColor=white" height="24" />
-</td>
-</tr>
-<tr>
-<td align="right" valign="middle"><b>💻&nbsp; Scripting</b></td>
-<td>
-<img src="https://skillicons.dev/icons?i=py,bash&theme=dark" height="40" />
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,terraform,docker,kubernetes,linux,githubactions,jenkins,gradle,git,prometheus,grafana,py,bash&perline=8&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Packer%20%2F%20HCL2-02A8EF?style=for-the-badge&logo=packer&logoColor=white" />
+  <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" />
+  <img src="https://img.shields.io/badge/EKS%20%2B%20ARC%20%2B%20Karpenter-FF9900?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/CUDA%20%2F%20ARM64-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/Groovy-4298B8?style=for-the-badge&logo=apachegroovy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=trivy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma%20Cloud-00C0E8?style=for-the-badge&logo=paloaltonetworks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloud%20Custodian-232F3E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SBOM%20%2F%20CVE%20Automation-6E40C9?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/ELK-005571?style=for-the-badge&logo=elastic&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20OIDC%20%E2%86%92%20IAM-000000?style=for-the-badge&logo=openid&logoColor=white" />
+</p>
 
 <br/>
 
