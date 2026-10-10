@@ -21,62 +21,78 @@
 
 <br/>
 
-## 🚀 What I've Delivered
+## 🏆 Top Contributions, Last 12 Months
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### ⚙️ H2O-3 CI/CD: Jenkins → GitHub Actions
-Moved the nightly regression suites, the phased PR pipeline, benchmarks and release jobs to GitHub Actions on <b>self-hosted EC2 runners</b> across two availability zones with Spot/On-Demand placement by job duration. Full parity with the legacy Jenkins nightlies, and one <b>consolidated test report</b> that separates infrastructure failures from product failures.
+### 1 · 💸 AWS CI/CD Cost Optimization
+Analyzed AWS infrastructure spending across EC2, Jenkins and storage; identified cost-saving opportunities and evaluated Spot Instances, storage reductions and Savings Plans.
+
+<b>Impact:</b> Clear cost visibility and a data-driven roadmap for reducing cloud expenditure.
 
 </td>
 <td width="50%" valign="top">
 
-### 📦 H2O-3 Release Engineering
-Nightly and on-demand releases: <b>immutable + moving Docker tags</b>, signed Maven artifacts, Conda and Python wheel verification, Hadoop assemblies, Git tag hygiene, documentation to GitHub Pages and S3, rich Slack alerts. The official <b>H2O-3 Secure</b> releases ship on it.
+### 2 · ☁️ Driverless AI Multi-Cloud Marketplace Automation
+Developed and standardized publishing workflows for Driverless AI VM images across <b>AWS, GCP, Azure and OCI</b>, using reusable GitHub Actions, HCL2 and Terraform-based validation. Delivered the release images to AWS, GCP and OCI.
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🛡️ Security Scanning Platform
-Designed and own the organization's vulnerability-scanning platform on GitHub Actions, with about 70% of its commits and 80+ merged PRs: scheduled, config-driven scans of release artifacts and container images for <b>H2O-3, H2O-3 Secure and Driverless AI</b> across every supported release line, cross-checked against a second scanner, with CVE tracking and de-duplication, prioritized alerting, AI-assisted triage, and a template that onboards a new product in minutes.
-
-</td>
-<td width="50%" valign="top">
-
-### 🔐 Security Automation Everywhere Else
-Unified <b>Trivy and Prisma</b> scanning in the Jenkins pipelines with Prometheus metrics and Grafana dashboards, automated <b>SBOM generation</b> and dependency-graph submission, an <b>automated CVE-fix workflow</b> for Driverless AI, and OIDC-based least-privilege IAM across CI.
+<b>Impact:</b> Consistent multi-cloud releases and automated image validation.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 💸 Driverless AI CI Cost Optimization
-Smoke tests on <b>Spot-first runners</b> with an instance-type ladder, placement scores and automatic fallback to another AZ and then On-Demand. Authored the AWS cost-optimization roadmap for Driverless AI CI/CD and cut smoke-test runner disks 4x.
+### 3 · ⚡ Driverless AI Smoke-Test Spot Migration
+Implemented <b>Spot-first execution</b> with cross-AZ fallback and On-Demand recovery. Analyzed 30 days of CI runs to identify capacity shortages, interruptions and opportunities to improve Spot utilization.
+
+<b>Impact:</b> Better capacity recovery and measurable visibility into CI compute cost and reliability.
 
 </td>
 <td width="50%" valign="top">
 
-### ☁️ Driverless AI on Four Cloud Marketplaces
-Cloud-image build pipeline on GitHub Actions and standardized publishing to the <b>AWS, GCP, Azure and OCI marketplaces</b>, with NVIDIA GPU handling and live VM validation, including GPU experiments, before an image goes public.
+### 4 · 🧱 CI AMI Build Automation with Packer
+Replacing oversized, manually maintained CI images with automated <b>CPU/GPU AMI builds for x86_64 and ARM64</b>, including current Ubuntu and CUDA/NVIDIA tooling.
+
+<b>Impact:</b> Reproducible runner images, simpler maintenance and less wasted storage.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🧱 CI Images with Packer
-Small <b>Packer-built CI images</b> for CPU and GPU (CUDA) workloads on x86_64 and ARM64, on current Ubuntu, replacing large hand-maintained AMIs.
+### 5 · 📦 H2O-3 Secure Release Engineering
+Delivered the official <b>H2O-3 Secure</b> releases end to end: release pipelines, automated jobs, testing and publication coordination.
+
+<b>Impact:</b> Dependable delivery of official Secure releases.
 
 </td>
 <td width="50%" valign="top">
 
-### 🧹 Cloud Governance and FinOps
-<b>Cloud Custodian</b> on AWS, Azure and GCP for automated resource cleanup with production safeguards, cloud budget alerts, and EC2 and on-prem utilization monitoring on ELK and Prometheus. Next up: an <b>EKS + ARC + Karpenter</b> runner platform, measured on startup time, utilization and cost per job.
+### 6 · ⚙️ CI/CD Workflow Modernization
+Improved GitHub Actions and Jenkins engineering workflows, reusable automation, nightly testing, smoke tests and release processes across <b>Driverless AI and H2O-3</b>.
+
+<b>Impact:</b> Less repetitive manual work and more consistency across engineering workflows.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 7 · 🔐 Security Scanning and Infrastructure Access Controls
+Built and maintain Driverless AI <b>vulnerability-scanning workflows</b> with nightly scan version tracking, plus <b>GitHub OIDC</b> authentication and AWS IAM permission design.
+
+<b>Impact:</b> Maintainable security workflows and controlled, auditable infrastructure access.
+
+</td>
+<td width="50%" valign="top">
+
+### 8 · 🔭 Scalable CI Runner Infrastructure Design
+Investigated an <b>EKS</b> architecture with GitHub Actions Runner Controller (ARC) and Karpenter, alongside additional Availability Zones, Spot placement scoring and alternative capacity strategies.
+
+<b>Impact:</b> Concrete paths toward scalable, resilient and cost-efficient CI infrastructure.
 
 </td>
 </tr>
