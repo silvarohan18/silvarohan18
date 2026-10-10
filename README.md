@@ -17,19 +17,6 @@
 
 **Primary DevOps and Infrastructure Engineer for the Predictive AI Engineering team at H2O.ai** (Software Engineer II – DevOps), with 3+ years in cloud infrastructure, CI/CD and release automation across **AWS, GCP, Azure and OCI**. I own the pipelines and infrastructure behind **H2O-3**, the open-source distributed ML platform, and **Driverless AI**, H2O's enterprise AutoML product: if the nightly tests run, a release ships, a security scan fires or a runner spins up with the right GPU and permissions, that is my work. BSc in Engineering, University of Ruhuna.
 
-## 📊 Impact in Numbers
-
-<div align="center">
-
-![Commits](https://img.shields.io/badge/3%2C400%2B-commits-0F2027?style=for-the-badge&labelColor=36BCF7)
-![PRs](https://img.shields.io/badge/780%2B-pull%20requests%20%E2%80%A2%20670%2B%20merged-0F2027?style=for-the-badge&labelColor=36BCF7)
-![Repos](https://img.shields.io/badge/118-repositories-0F2027?style=for-the-badge&labelColor=36BCF7)
-![Year](https://img.shields.io/badge/2%2C600%2B-contributions%20in%20the%20last%2012%20months-0F2027?style=for-the-badge&labelColor=36BCF7)
-
-<sub>Across the H2O.ai organization since October 2023, default branches only. Snapshot: October 2026.</sub>
-
-</div>
-
 ## 🚀 What I've Delivered
 
 - **H2O-3 CI/CD, Jenkins → GitHub Actions.** Migrated the nightly regression suites, the PR pipeline with phased gating, the benchmark pipeline and the release jobs to GitHub Actions on **self-hosted EC2 runners** spread across two availability zones with Spot/On-Demand placement by job duration. Reached parity with the legacy Jenkins nightlies and replaced dozens of job logs with one **consolidated test report** that separates infrastructure failures from product failures.
