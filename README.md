@@ -9,14 +9,13 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rohan%20Silva-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohan-silva-874abb197)
 [![Instagram](https://img.shields.io/badge/Instagram-%40luukz__18-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luukz_18/)
 [![H2O.ai](https://img.shields.io/badge/H2O.ai-DevOps%20%26%20Infrastructure%20%E2%80%A2%20Predictive%20AI-FFE600?style=for-the-badge&logoColor=black)](https://h2o.ai)
-[![H2O-3](https://img.shields.io/badge/Open%20Source-h2oai%2Fh2o--3-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/h2oai/h2o-3)
 ![Location](https://img.shields.io/badge/Based%20in-Sri%20Lanka-00A86B?style=for-the-badge&logo=googlemaps&logoColor=white)
 
 </div>
 
 ## 🧭 About
 
-**Primary DevOps and Infrastructure Engineer for the Predictive AI Engineering team at H2O.ai** (Software Engineer II – DevOps), with 3+ years in cloud infrastructure, CI/CD and release automation across **AWS, GCP, Azure and OCI**. I own the pipelines and infrastructure behind [**H2O-3**](https://github.com/h2oai/h2o-3), the open-source distributed ML platform, and **Driverless AI**, H2O's enterprise AutoML product: if the nightly tests run, a release ships, a security scan fires or a runner spins up with the right GPU and permissions, that is my work. BSc in Engineering, University of Ruhuna.
+**Primary DevOps and Infrastructure Engineer for the Predictive AI Engineering team at H2O.ai** (Software Engineer II – DevOps), with 3+ years in cloud infrastructure, CI/CD and release automation across **AWS, GCP, Azure and OCI**. I own the pipelines and infrastructure behind **H2O-3**, the open-source distributed ML platform, and **Driverless AI**, H2O's enterprise AutoML product: if the nightly tests run, a release ships, a security scan fires or a runner spins up with the right GPU and permissions, that is my work. BSc in Engineering, University of Ruhuna.
 
 ## 📊 Impact in Numbers
 
