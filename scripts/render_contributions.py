@@ -20,7 +20,7 @@ OUT = sys.argv[2] if len(sys.argv) > 2 else "dist/activity.svg"
 # Palette matched to the README banners and the streak card next to this panel.
 BG, ACCENT, DIM = "#0F2027", "#36BCF7", "#1E2A33"
 TEXT, MUTED, LINE = "#FFFFFF", "#9CA3AF", "#1F3440"
-WIDTH, HEIGHT = 495, 215
+WIDTH, HEIGHT = 560, 215
 
 
 def fetch(user: str) -> str:
@@ -63,13 +63,12 @@ def render(counts, year_total: int) -> str:
     last_day = max(counts)
     w7_start, w7, _ = window(counts, last_day, 7)
     w30_start, w30, bars = window(counts, last_day, 30)
-    active_days = sum(1 for v in counts.values() if v > 0)
     best_day, best = max(counts.items(), key=lambda kv: kv[1])
 
+    # Two tiles only: recent momentum, no lifetime totals or streaks.
     tiles = [
         (f"{w7:,}", "Last 7 days", fmt_range(w7_start, last_day)),
         (f"{w30:,}", "Last 30 days", fmt_range(w30_start, last_day)),
-        (f"{year_total:,}", "Last 12 months", f"{active_days} active days"),
     ]
 
     p = [
@@ -78,7 +77,7 @@ def render(counts, year_total: int) -> str:
         f'<rect width="100%" height="100%" rx="10" fill="{BG}"/>',
         '<g font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" text-anchor="middle">',
     ]
-    col_w = WIDTH / 3
+    col_w = WIDTH / len(tiles)
     for i, (num, label, sub) in enumerate(tiles):
         cx = col_w * i + col_w / 2
         colour = ACCENT if i == 1 else TEXT
@@ -91,7 +90,7 @@ def render(counts, year_total: int) -> str:
 
     # 30-day bar strip: one bar per day, scaled to the busiest day of the month.
     chart_top, chart_h = 136, 48
-    bar_w, gap = 12, 3
+    bar_w, gap = 14, 3
     strip_w = 30 * (bar_w + gap) - gap
     x0 = (WIDTH - strip_w) / 2
     peak = max(bars) or 1

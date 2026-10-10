@@ -138,15 +138,11 @@ Small <b>Packer-built CI images</b> for CPU and GPU (CUDA) workloads on x86_64 a
 
 <br/>
 
-## 📈 Activity
+## 📈 Recent Activity
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=silvarohan18&mode=weekly&theme=dark&hide_border=true&background=0F2027&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9CA3AF" alt="Contribution streak" />
-
-<br/><br/>
-
-<img src="https://raw.githubusercontent.com/silvarohan18/silvarohan18/output/activity.svg" alt="Contributions in the last 7 days, 30 days and 12 months" />
+<img src="https://raw.githubusercontent.com/silvarohan18/silvarohan18/output/recent-activity.svg" alt="Contributions in the last 7 days, 30 days and 12 months" />
 
 </div>
 
