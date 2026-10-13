@@ -17,15 +17,44 @@
 
 ## 🧭 About
 
-Hi, I'm Rohan 👋
+```yaml
+name: Rohan Silva
+role: Software Engineer II – DevOps
+company: H2O.ai
+team: Predictive AI Engineering
+location: Sri Lanka
+experience: 3+ years
 
-I'm a **Software Engineer II – DevOps at H2O.ai**, working across cloud infrastructure, CI/CD, and release automation for the Predictive AI Engineering team.
+focus:
+  - Cloud Infrastructure
+  - CI/CD & Release Automation
+  - Security Scanning & Compliance
 
-Over the past 3+ years, I've been building, maintaining, and improving the infrastructure and automation behind **H2O-3, H2O-3 Secure, and Driverless AI** — from nightly test pipelines and secure releases to cloud marketplace publishing and scalable CI infrastructure.
+products:
+  - H2O-3
+  - H2O-3 Secure
+  - Driverless AI
 
-My work spans **AWS, GCP, Azure, and OCI**, with a focus on making engineering platforms more reliable, secure, scalable, and cost-efficient. I work across the full lifecycle, from designing and automating infrastructure to troubleshooting complex failures, optimizing cloud costs, and improving release processes.
+clouds:
+  - AWS
+  - GCP
+  - Azure
+  - OCI
 
-I enjoy solving infrastructure problems at their root, turning repetitive manual tasks into reliable automation, and building systems that help engineering teams deliver software with greater confidence and efficiency.
+what_i_do:
+  - Design and automate infrastructure across multi-cloud environments
+  - Build and maintain CI/CD pipelines, nightly tests, and release workflows
+  - Publish marketplace images and coordinate secure releases
+  - Optimize cloud costs with Spot, right-sizing, and resource management
+  - Automate CVE scanning and enforce infrastructure access controls
+  - Troubleshoot complex failures across distributed systems
+
+philosophy: >
+  Solve infrastructure problems at their root,
+  turn repetitive manual tasks into reliable automation,
+  and build systems that help engineering teams ship
+  with confidence and efficiency.
+```
 
 <br/>
 
