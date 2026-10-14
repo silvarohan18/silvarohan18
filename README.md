@@ -35,12 +35,6 @@ products:
   - H2O-3 Secure
   - Driverless AI
 
-clouds:
-  - AWS
-  - GCP
-  - Azure
-  - OCI
-
 what_i_do:
   - Design and automate infrastructure across multi-cloud environments
   - Build and maintain CI/CD pipelines, nightly tests, and release workflows
