@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="230" viewBox="0 0 900 230" role="img" aria-label="Recent contribution activity">
+<rect width="100%" height="100%" rx="10" fill="#0F2027"/>
+<g font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" text-anchor="middle">
+<text x="225" y="60" font-size="36" font-weight="700" fill="#FFFFFF">32</text>
+<text x="225" y="88" font-size="16" font-weight="600" fill="#FFFFFF">Last 7 days</text>
+<text x="225" y="108" font-size="12" fill="#9CA3AF">Oct 25 – 31</text>
+<text x="675" y="60" font-size="36" font-weight="700" fill="#36BCF7">174</text>
+<text x="675" y="88" font-size="16" font-weight="600" fill="#FFFFFF">Last 30 days</text>
+<text x="675" y="108" font-size="12" fill="#9CA3AF">Oct 2 – 31</text>
+<line x1="450" y1="34" x2="450" y2="112" stroke="#1F3440" stroke-width="1"/>
+<g text-anchor="start">
+<rect x="32.0" y="152" width="24" height="32" rx="2" fill="#36BCF7" opacity="0.75"><title>Oct 2: 18 contributions</title></rect>
+<rect x="60.0" y="182" width="24" height="2" rx="2" fill="#1E2A33" opacity="1"><title>Oct 3: 0 contributions</title></rect>
+<rect x="88.0" y="182" width="24" height="2" rx="2" fill="#1E2A33" opacity="1"><title>Oct 4: 0 contributions</title></rect>
+<rect x="116.0" y="166" width="24" height="18" rx="2" fill="#36BCF7" opacity="0.75"><title>Oct 5: 10 contributions</title></rect>
+<rect x="144.0" y="172" width="24" height="12" rx="2" fill="#36BCF7" opacity="0.75"><title>Oct 6: 7 contributions</title></rect>
+<rect x="172.0" y="182" width="24" height="2" rx="2" fill="#1E2A33" opacity="1"><title>Oct 7: 0 contributions</title></rect>
+<rect x="200.0" y="179" width="24" height="5" rx="2" fill="#36BCF7" opacity="0.75"><title>Oct 8: 3 contributions</title></rect>
+<rect x="228.0" y="154" width="24" height="30" rx="2" fill="#36BCF7" opacity="0.75"><title>Oct 9: 17 contributions</title></rect>
+<rect x="256.0" y="136" width="24" height="48" rx="2" fill="#36BCF7" opacity="1"><title>Oct 10: 27 contributions</title></rect>
+<rect x="284.0" y="182" width="24" height="2" rx="2" fill="#1E2A33" opacity="1"><title>Oct 11: 0 contributions</title></rect>
+<rect x="312.0" y="182" width="24" height="2" rx="2" fill="#36BCF7" opacity="0.75"><title>Oct 12: 1 contribution</title></rect>
+<rect x="340.0" y="157" width="24" height="27" rx="2" fill="#36BCF7" opacity="0.75"><title>Oct 13: 15 contributions</title></rect>
+<rect x="368.0" y="164" width="24" height="20" rx="2" fill="#36BCF7" opacity="0.75"><title>Oct 14: 11 contributions</title></rect>
+<rect x="396.0" y="182" width="24" height="2" rx="2" fill="#1E2A33" opacity="1"><title>Oct 15: 0 contributions</title></rect>
+<rect x="424.0" y="177" width="24" height="7" rx="2" fill="#36BCF7" opacity="0.75"><title>Oct 16: 4 contributions</title></rect>
+<rect x="452.0" y="182" width="24" height="2" rx="2" fill="#1E2A33" opacity="1"><title>Oct 17: 0 contributions</title></rect>
+<rect x="480.0" y="182" width="24" height="2" rx="2" fill="#1E2A33" opacity="1"><title>Oct 18: 0 contributions</title></rect>
+<rect x="508.0" y="172" width="24" height="12" rx="2" fill="#36BCF7" opacity="0.75"><title>Oct 19: 7 contributions</title></rect>
+<rect x="536.0" y="172" width="24" height="12" rx="2" fill="#36BCF7" opacity="0.75"><title>Oct 20: 7 contributions</title></rect>
+<rect x="564.0" y="179" width="24" height="5" rx="2" fill="#36BCF7" opacity="0.75"><title>Oct 21: 3 contributions</title></rect>
+<rect x="592.0" y="175" width="24" height="9" rx="2" fill="#36BCF7" opacity="0.75"><title>Oct 22: 5 contributions</title></rect>
+<rect x="620.0" y="172" width="24" height="12" rx="2" fill="#36BCF7" opacity="0.75"><title>Oct 23: 7 contributions</title></rect>
+<rect x="648.0" y="182" width="24" height="2" rx="2" fill="#1E2A33" opacity="1"><title>Oct 24: 0 contributions</title></rect>
+<rect x="676.0" y="180" width="24" height="4" rx="2" fill="#36BCF7" opacity="0.75"><title>Oct 25: 2 contributions</title></rect>
+<rect x="704.0" y="180" width="24" height="4" rx="2" fill="#36BCF7" opacity="0.75"><title>Oct 26: 2 contributions</title></rect>
+<rect x="732.0" y="182" width="24" height="2" rx="2" fill="#1E2A33" opacity="1"><title>Oct 27: 0 contributions</title></rect>
+<rect x="760.0" y="182" width="24" height="2" rx="2" fill="#1E2A33" opacity="1"><title>Oct 28: 0 contributions</title></rect>
+<rect x="788.0" y="136" width="24" height="48" rx="2" fill="#36BCF7" opacity="1"><title>Oct 29: 27 contributions</title></rect>
+<rect x="816.0" y="182" width="24" height="2" rx="2" fill="#36BCF7" opacity="0.75"><title>Oct 30: 1 contribution</title></rect>
+<rect x="844.0" y="182" width="24" height="2" rx="2" fill="#1E2A33" opacity="1"><title>Oct 31: 0 contributions</title></rect>
+</g>
+<text x="32" y="202" font-size="10" fill="#9CA3AF" text-anchor="start">Oct 2</text>
+<text x="450" y="202" font-size="10" fill="#9CA3AF">Daily contributions, last 30 days · peak 105 on May 19</text>
+<text x="868" y="202" font-size="10" fill="#9CA3AF" text-anchor="end">Oct 31</text>
+</g></svg>
